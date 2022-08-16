@@ -15,7 +15,7 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Preview
-<h3>Launch Website By Clicking Here 👉 https://ecommerce-website-lyart.vercel.app/ </h3>
+- Launch Website By Clicking Here 👉 https://ecommerce-website-lyart.vercel.app/
 
 
 ![Screenshot 2022-08-16 064403](https://user-images.githubusercontent.com/86745118/184778945-2b15088f-b8a9-474e-bac3-c9c4eef6cd1e.png)

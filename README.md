@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+- Responsive Modern Full Stack Ecommerce application with Payments functionality. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover REAL payments. This is the best e-commerce website project
 
 ## Getting Started
 
@@ -12,6 +14,23 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Preview
+<h3>Launch Website By Clicking Here 👉 https://ecommerce-website-lyart.vercel.app/ </h3>
+
+
+![Screenshot 2022-08-16 064403](https://user-images.githubusercontent.com/86745118/184778945-2b15088f-b8a9-474e-bac3-c9c4eef6cd1e.png)
+
+![Screenshot 2022-08-16 064441](https://user-images.githubusercontent.com/86745118/184778951-1ecb9e13-025e-4d09-a738-c8d6bea6bd35.png)
+
+![Screenshot 2022-08-16 064507](https://user-images.githubusercontent.com/86745118/184778955-0dbce4cb-84f1-4e9f-899c-22e63c5d5f89.png)
+
+![Screenshot 2022-08-16 064601](https://user-images.githubusercontent.com/86745118/184778957-7f30b9e2-3461-4625-b66c-c919aa501f5b.png)
+
+![Screenshot 2022-08-16 064631](https://user-images.githubusercontent.com/86745118/184778958-acfd9949-3b5b-4395-9b0e-037b5af9e097.png)
+
+![Screenshot 2022-08-16 064819](https://user-images.githubusercontent.com/86745118/184778960-90d607f0-bf3e-4604-82c6-af2afc4651a5.png)
+
+### How to Contrtibute ?
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
